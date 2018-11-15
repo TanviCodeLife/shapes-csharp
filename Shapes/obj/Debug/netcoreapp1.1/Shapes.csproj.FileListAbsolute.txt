@@ -1,0 +1,7 @@
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.deps.json
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.csproj.CoreCompileInputs.cache
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.AssemblyInfo.cs
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.dll
+/Users/Tanvi/Desktop/Week1_CSharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.pdb
